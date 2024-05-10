@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288704412759",
+    "project_id": "devpoint-solutions",
+    "storage_bucket": "devpoint-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288704412759:android:369523a99354164d1cf712",
+        "android_client_info": {
+          "package_name": "com.example.devpoint_solutions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-AA2KsAmazkcH3s1GPjTQv1m9UqIX3jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
