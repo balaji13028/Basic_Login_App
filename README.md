@@ -1,6 +1,6 @@
 # devpoint_solutions
 
-A new Flutter project.
+ Developed a basic app with splash, login, and registration screens to create and login users to access the application.
 
 ## Getting Started
 
