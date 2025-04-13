@@ -1,6 +1,6 @@
-# devpoint_solutions
+# Basic Login Application
 
- Developed a basic app with splash, login, and registration screens to create and login users to access the application.
+ Developed a basic app with splash, login, and registration screens to create and login users to access the application using the firebase (firestore & auth)
 
 ## Getting Started
 
